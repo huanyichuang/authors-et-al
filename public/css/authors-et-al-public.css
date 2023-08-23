@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.author-stacking {
+    position: relative;
+    min-height: 1em;
+}
+
+.author-stacking .et-al-author {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.author-stacking .et-al {
+	position: relative;
+	margin-left: 0.5em;
+}
